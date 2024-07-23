@@ -14,16 +14,8 @@ import Navbar from "@/components/Navbar.vue";
         <main>
 
         </main>
-        <footer class="sticky top-full flex flex-row items-center text-gray-600 border-t-2 border-gray-600">
-            <img src="" alt="">
-            <p class="text-sm">
-                2024 Arthur Silva - 
-                <a href="" class="text-blue">@arthurazevedods</a>
-            </p>
-            <div class="ml-auto flex justify-center">icon</div>
-            <div class="ml-auto flex justify-center">icon</div>
-            <div class="ml-auto flex justify-center">icon</div>
-
+        <footer class="sticky top-full ">
+            <Footer></Footer>
         </footer>
     </div>
 </template>
