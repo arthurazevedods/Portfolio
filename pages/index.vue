@@ -1,17 +1,14 @@
 <script setup lang="ts">
+import { defineComponent } from "vue";
+import Navbar from "@/components/Navbar.vue";
+
 
 </script>
 <template>
     <div class="h-full">
-        <header class="hero h-1/4 bg-cover bg-center">
-            <nav class="shadow-blue-600bg-primary bg-primary bg-opacity-40 rounded-2x1 flex flex-row justify-between h-10">
-                <div>logo</div>
-                <ul class="flex items-center justify-around font-bold">
-                    <li>Início</li>
-                    <li>Blog</li>
-                    <li>Portfolio</li>
-                    <li>Contato</li>
-                </ul>
+        <header>
+            <nav>
+                <Navbar/>
             </nav>
         </header>
         <main>
@@ -32,8 +29,5 @@
 </template>
 
 <style scoped>
-.hero{
-    background-image: url('/assets/images/teclado-nav-banner.jpg');
-    color: black;
-}
+
 </style>

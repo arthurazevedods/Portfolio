@@ -6,9 +6,17 @@ export default defineNuxtConfig({
     typeCheck: false
   },
   modules: [
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss', '@vesp/nuxt-fontawesome'
   ],
+  fontawesome: {
+    icons: {
+      solid: ['cog', 'coffee','circle'],
+      regular: ['comment' ],
+      brands: ['twitter', 'whatsapp' ],
+    },
+  },
   css:[
     '@/assets/index.css'
-  ]
+  ],
+  
 })
