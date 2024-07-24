@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { defineComponent } from "vue";
-import Navbar from "@/components/Navbar.vue";
+
 
 
 </script>
@@ -10,9 +9,11 @@ import Navbar from "@/components/Navbar.vue";
             <nav>
                 <Navbar/>
             </nav>
+            <Banner></Banner>
         </header>
-        <main>
-
+        <main class="my-5">
+            
+            <Form></Form>
         </main>
         <footer class="sticky top-full ">
             <Footer></Footer>
