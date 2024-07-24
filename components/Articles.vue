@@ -15,9 +15,8 @@
                     </h2>
                     <p class="leading-relaxed text-base">
                         No mundo da programação, os iniciantes se deparam com um dilema comum: qual linguagem de programação escolher para dar os primeiros passos? A variedade de opções pode ser avassaladora, e a dúvida paira no ar: por onde começar?
-                        
                     </p>
-                    <a class="mt-3 text-indigo-400 inline-flex items-center">Leia mais
+                    <a href="https://medium.com/@arthurazevedods/introdu%C3%A7%C3%A3o-ao-php-fd5c15d47317" class="mt-3 text-indigo-400 inline-flex items-center">Leia mais
                         <font-awesome icon="fa-solid fa-arrow-right" class="ml-2"/>
                     </a>
                 </div>
@@ -29,7 +28,7 @@
                 <div class="flex-grow pl-6">
                     <h2 class="text-white text-lg title-font font-medium mb-2">Programação e Algoritmos</h2>
                     <p class="leading-relaxed text-base">Programação e Algoritmos: Uma Introdução para Iniciantes. No mundo digital de hoje, a programação e os algoritmos se tornaram ferramentas essenciais para a criação de softwares, jogos, websites e aplicativos que usamos diariamente. Mas o que exatamente são esses termos e qual a sua importância? Nesta introdução, veremos o que estes termos significam.</p>
-                    <a class="mt-3 text-indigo-400 inline-flex items-center">Leia mais
+                    <a href="https://medium.com/@arthurazevedods/programa%C3%A7%C3%A3o-e-algoritmos-um-guia-para-iniciantes-67343ffa1a0a" class="mt-3 text-indigo-400 inline-flex items-center">Leia mais
                         <font-awesome icon="fa-solid fa-arrow-right" class="ml-2"/>
                     </a>
                 </div>
@@ -45,7 +44,7 @@
 
 Para adentrar nesse mundo, é necessário que se conheça o HTML e o CSS, que por serem simples acabam sendo negligenciados por pessoas que querem “pular etapas” em seus estudos.
                 </p>
-                <a class="mt-3 text-indigo-400 inline-flex items-center ">Leia mais
+                <a href="https://medium.com/@arthurazevedods/o-b%C3%A1sico-de-html-b67e4eb14ba4" class="mt-3 text-indigo-400 inline-flex items-center ">Leia mais
                     <font-awesome icon="fa-solid fa-arrow-right" class="ml-2"/>
                 </a>
                 </div>

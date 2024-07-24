@@ -80,8 +80,8 @@ export default {
         return {
             navigation: [
                 { name: 'Início', href: '#', current: true },
-                { name: 'Portfólio', href: '#', current: false },
-                { name: 'Sobre mim', href: '#', current: false },
+                { name: 'Portfólio', href: 'https://github.com/arthurazevedods', current: false },
+                { name: 'Blog', href: 'https://medium.com/@arthurazevedods', current: false },
                 { name: 'Contatos', href: '#', current: false },
             ]
         }

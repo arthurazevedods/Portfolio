@@ -26,7 +26,7 @@
             </a>
             <!--Medium-->
             <a
-                href="https://www.linkedin.com/in/arthur-silva-b84064135/"
+                href="https://medium.com/@arthurazevedods"
                 type="button"
                 class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
                 data-twe-ripple-init>
