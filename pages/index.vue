@@ -13,6 +13,7 @@
         <main>
             <Banner/>
             <Servicos></Servicos>
+            <Articles/>
             <Form class="mt-5"></Form>
         </main>
         <footer class="sticky top-full">
