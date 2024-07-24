@@ -1,7 +1,7 @@
 <template>
     <!--Footer container-->
     <div
-    class="flex flex-col items-center bg-zinc-50 text-center text-surface dark:bg-neutral-700 dark:text-white">
+    class="flex flex-col items-center text-center text-surface bg-neutral-700 text-white">
     <!--Redes sociais-->
     <Redes/>
 
