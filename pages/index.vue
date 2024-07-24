@@ -9,10 +9,10 @@
             <nav>
                 <Navbar/>
             </nav>
-            <Banner></Banner>
-        </header>
-        <main class="my-5">
             
+        </header>
+        <main class="">
+            <Banner class="mb-5"/>
             <Form></Form>
         </main>
         <footer class="sticky top-full ">
