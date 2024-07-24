@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     icons: {
       solid: ['cog', 'coffee','circle'],
       regular: ['comment' ],
-      brands: ['twitter', 'whatsapp' ],
+      brands: ['twitter', 'whatsapp','medium','github','linkedin','instagram','x-twitter' ],
     },
   },
   css:[

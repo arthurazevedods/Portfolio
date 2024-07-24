@@ -60,7 +60,7 @@
 <script lang="ts">
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
 
 export default {
     name:'Navbar',
@@ -74,7 +74,7 @@ export default {
         MenuItems,
         Bars3Icon,
         XMarkIcon,
-        FontAwesomeIcon
+        
     },
     data() {
         return {
