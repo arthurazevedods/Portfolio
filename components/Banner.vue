@@ -25,7 +25,6 @@
 
 <style scoped>
 img{
-    
     width: 1000px; /* width of container */
     height: 500px; /* height of container */
     object-fit: cover;
