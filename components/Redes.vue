@@ -1,6 +1,6 @@
 <template>
 
-    <div class="container pt-2">
+    <div class=" pt-2">
         <!-- Social media icons container -->
         <div class="mb-6 flex justify-center space-x-2">
         
