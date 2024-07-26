@@ -8,7 +8,7 @@
                 </p>
                 
                 <a href="#" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center  border  rounded-lg   text-white border-gray-700 hover:bg-gray-700 focus:ring-gray-800">
-                    Conheça mais
+                    Download CV
                 </a>  
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
