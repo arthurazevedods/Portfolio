@@ -10,8 +10,8 @@ export default defineNuxtConfig({
   ],
   fontawesome: {
     icons: {
-      solid: ['cog', 'coffee','circle', 'arrow-right'],
-      regular: ['comment','file-code' ],
+      solid: ['cog', 'coffee','circle', 'arrow-right', 'bullhorn','person-chalkboard','globe','robot', "mobile-screen-button"],
+      regular: ['comment','file-code', 'lightbulb' ],
       brands: ['twitter', 'whatsapp','medium','github','linkedin','instagram','x-twitter','php','html5' ],
     },
   },
