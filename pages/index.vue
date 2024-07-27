@@ -14,7 +14,7 @@
             <Banner/>
             <Servicos></Servicos>
             <Articles/>
-            <CardsProjects/>
+            <CardsProjects />
             <Form class="mt-5"></Form>
         </main>
         <footer class="sticky top-full">
