@@ -12,7 +12,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Criação de Sites</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
+                        Transforme sua ideia em um site profissional e responsivo. Crie uma presença online sólida e atraia mais clientes.
 
                     </p>
                 </div>
@@ -22,7 +22,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Criação de Aplicativos</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
+                        Desenvolva aplicativos para celulares. Ofereça soluções inovadoras para o seu negócio.
 
                     </p>
                 </div>
@@ -32,8 +32,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Elaboração de MVP's</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
-
+                        Valide sua ideia rapidamente com um Produto Mínimo Viável. Economize tempo e recursos e alcance o mercado mais rápido.
                     </p>
                 </div>
                 <div>
@@ -42,8 +41,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Automação</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
-
+                        Otimize seus processos e aumente a produtividade. Automatize tarefas repetitivas e libere tempo para o que realmente importa.
                     </p>
                 </div>
                 <div>
@@ -52,7 +50,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Marketing</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
+                        Crie campanhas de marketing eficazes e alcance seu público-alvo. Aumente o reconhecimento da sua marca e gere mais leads.
 
                     </p>
                 </div>
@@ -62,7 +60,7 @@
                     </div>
                     <h3 class="mb-2 text-xl font-bold text-white">Aulas</h3>
                     <p class="text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non rutrum magna, vitae cursus lacus. 
+                        Aprenda sobre lógica de programação, estrutura de dados, robótica, desenvolvimento Web e muito mais sobre tecnologia.
                     </p>
                 </div>
             </div>

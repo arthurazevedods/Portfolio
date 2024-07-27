@@ -1,6 +1,6 @@
 <template>
-    <section class="p-5 text-gray-400 bg-gray-900 body-font">
-        <div class="max-w-screen-xl px-5 py-24 mx-auto ">
+    <section class="text-gray-400 bg-gray-900 body-font">
+        <div class="max-w-screen-xl px-5 pb-4 mx-auto ">
             <h1 class="sm:text-3xl text-2xl font-medium title-font text-center text-white mb-20">
                 Artigos publicados no Medium
             </h1>

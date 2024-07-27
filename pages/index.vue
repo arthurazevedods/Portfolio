@@ -1,7 +1,3 @@
-<script setup lang="ts">
-
-
-</script>
 <template>
     <div class="h-full">
         <header>
@@ -13,16 +9,13 @@
         <main>
             <Banner/>
             <Servicos></Servicos>
-            <Articles/>
             <CardsProjects />
-            <Form class="mt-5"></Form>
+            <Articles/>
+            
+            <Form></Form>
         </main>
         <footer class="sticky top-full">
-            <Footer class="mt-5"></Footer>
+            <Footer></Footer>
         </footer>
     </div>
 </template>
-
-<style scoped>
-
-</style>
