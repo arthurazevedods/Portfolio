@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 interface Tab {
   title: string
   content: string
@@ -31,7 +31,7 @@ const cardItems = ref([
     image: 'https://cdn.tailgrids.com/2.0/image/application/images/cards/card-01/image-01.jpg',
     title: 'Supervisão e Sinergia',
     details:
-      'Lorem ipsum dolor sit amet pretium consectetur adipiscing elit. Lorem consectetur adipiscing elit.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
     buttonText: 'Acesse',
     buttonLink: 'https://supervisao-e-sinergia.vercel.app/',
     tag: 'comerciais'
@@ -49,7 +49,7 @@ const cardItems = ref([
     image: 'https://cdn.tailgrids.com/2.0/image/application/images/cards/card-01/image-01.jpg',
     title: 'Gerador de QR Code',
     details:
-      'Lorem ipsum dolor sit amet pretium consectetur adipiscing elit. Lorem consectetur adipiscing elit.',
+      'Lng elit.',
     buttonText: 'Acesse',
     buttonLink: 'https://gerador-qrcode-mfvu5ega8-arthurazevedods-projects.vercel.app/',
     tag: 'pessoais'
